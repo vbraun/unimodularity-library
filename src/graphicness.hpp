@@ -542,7 +542,6 @@ namespace unimod
       const NestedMinorSequenceType& nested_minors, size_t& largest_graphic_minor)
   {
     typedef boost::graph_traits<matroid_graph>::vertex_descriptor vertex_descriptor;
-    typedef boost::graph_traits<matroid_graph>::edge_descriptor edge_descriptor;
 
     /// Initialize W3
 
