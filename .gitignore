@@ -11,3 +11,4 @@ stamp-h1
 src/unimodularity-test
 src/tu-compare
 src/matrix-gen
+*.tar.gz
