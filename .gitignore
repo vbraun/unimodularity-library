@@ -1,1 +1,13 @@
 *~
+*.o
+Makefile
+config.h
+config.log
+config.status
+libtool
+src/.deps/
+stamp-h1
+*.a
+src/unimodularity-test
+src/tu-compare
+src/matrix-gen
